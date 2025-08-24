@@ -38,7 +38,7 @@ possui a voz que você escolheu. Cada sistema ou navegador, possui suas própria
 
 ---
 
-Espero que goste! Caso queira testá-lo, poderá copiar este código, baixar o áudio `mp3` acima, clique em `view raw` e seguir o requisito necessário: ⬇️
+Espero que goste! Caso queira testá-lo, poderá copiar este código, baixar o áudio `mp3` acima, clique em `view raw` e seguir os requisitos necessários: ⬇️
 
 ###
 
@@ -56,7 +56,7 @@ cd env
 
 ###
 
-😎 Seguindo esses passos, você criará uma `env` dentro de seu VS Code. Caso queira usar a mesma dependência que usei no código, instale:
+😎 Seguindo esse passo, você criará uma `env` dentro de seu VS Code. Caso queira usar a mesma dependência que usei no código, instale:
 
 ###
 ```powershell
