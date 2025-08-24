@@ -70,4 +70,6 @@ pip install edge_tts
 ###
 ```python
  voice = "pt-BR-AntonioNeural"
+
+ #PT-BR or EN
 ```
