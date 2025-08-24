@@ -64,3 +64,10 @@ pip install edge_tts
 ```
 
 ###
+
+**<h3>🗣️ Voz utilizada no código</h2>**
+
+###
+```python
+ voice = "pt-BR-AntonioNeural"
+```
