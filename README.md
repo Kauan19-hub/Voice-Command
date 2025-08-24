@@ -38,7 +38,7 @@ possui a voz que você escolheu. Cada sistema ou navegador, possui suas própria
 
 ---
 
-Espero que goste! Caso queira testá-lo, poderá copiar este código, baixar o áudio `mp3` acima, e seguir o requisito necessário: ⬇️
+Espero que goste! Caso queira testá-lo, poderá copiar este código, baixar o áudio `mp3` acima, clique em `view raw` e seguir o requisito necessário: ⬇️
 
 ###
 
