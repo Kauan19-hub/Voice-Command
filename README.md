@@ -45,13 +45,34 @@ Espero que goste! Caso queira testá-lo, poderá copiar este código, baixar o �
 **<h3>✅ Ambiente Virtual (Terminal do VS Code)</h3>**
 
 ###
-```powershell
-python -m venv env
-```
+
+Para Windows:
 
 ###
 ```powershell
-cd env
+python -m venv env  #Cria o ambiente
+cd env #Entra no ambiente
+```
+###
+
+Para Linux:
+
+###
+```powershell
+$ mkdir (nome...)
+$ cd (nome...) 
+$ python3 -m venv venv
+```
+
+###
+
+Para MacOS:
+
+###
+```powershell
+pip3 -m venv env (name...)
+pip3 -m venv env (name...) activate
+pip install (nome do pacote...) #Caso queira instalar pacotes específios
 ```
 
 ###
