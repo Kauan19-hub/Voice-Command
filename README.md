@@ -51,7 +51,7 @@ Para Windows:
 ###
 ```powershell
 python -m venv env  #Cria o ambiente
-cd env #Entra no ambiente
+.\env\Scripts\activate #Entra no ambiente
 ```
 ###
 
@@ -60,7 +60,6 @@ Para Linux:
 ###
 ```powershell
 $ mkdir (nome...)
-$ cd (nome...) 
 $ python3 -m venv venv
 ```
 
