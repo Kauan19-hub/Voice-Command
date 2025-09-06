@@ -1,4 +1,4 @@
-<h2>💻 Audio Code Developed in Python 💻</h2>*
+<h2>💻 Audio Code Developed in Python 💻</h2>
 
 ###
 ```python
