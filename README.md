@@ -33,7 +33,7 @@ For this, it is necessary to download libraries/frameworks to import the functio
 
 ###
 
-(*OBS*: Depending on the voice you use, you need to install another library/framework, and you will need to check if your machine
+(OBS: Depending on the voice you use, you need to install another library/framework, and you will need to check if your machine
 has the voice you have chosen. Each system or browser has its own Google voices! 😉
 
 ---
@@ -42,7 +42,7 @@ Hope you like it! If you want to test it, you can copy this code, download the `
 
 ###
 
-*<h3>✅ Virtual Environment (VS Code Terminal)</h3>*
+**<h3>✅ Virtual Environment (VS Code Terminal)</h3>**
 
 ###
 
@@ -85,7 +85,7 @@ pip install edge_tts
 
 ###
 
-*<h3>🗣️ Voice used in the code</h2>*
+**<h3>🗣️ Voice used in the code</h2>**
 
 ###
 ```python
