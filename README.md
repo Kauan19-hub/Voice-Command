@@ -1,4 +1,4 @@
-<h2>💻 Audio Code Developed in Python 💻</h2>
+<h2>Audio Code Developed in Python</h2>
 
 ###
 ```python
@@ -34,7 +34,7 @@ For this, it is necessary to download libraries/frameworks to import the functio
 ###
 
 (OBS: Depending on the voice you use, you need to install another library/framework, and you will need to check if your machine
-has the voice you have chosen. Each system or browser has its own Google voices! 😉
+has the voice you have chosen. Each system or browser has its own Google voices!
 
 ---
 
@@ -76,7 +76,7 @@ pip install (package name...) #If you want to install specific packages
 
 ###
 
-😎 Following this step, you will create an `env` inside your VS Code. If you want to use the same dependency that I used in the code, install:
+Following this step, you will create an `env` inside your VS Code. If you want to use the same dependency that I used in the code, install:
 
 ###
 ```powershell
