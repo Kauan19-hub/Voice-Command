@@ -51,8 +51,13 @@ For Windows:
 ###
 ```powershell
 python -m venv env  #Creates the environment
+```
+
+###
+```powershell
 .\env\Scripts\activate #Enters the environment
 ```
+
 ###
 
 For Linux:
@@ -60,6 +65,10 @@ For Linux:
 ###
 ```powershell
 $ mkdir (name...)
+```
+
+###
+```powershell
 $ python3 -m venv venv
 ```
 
@@ -70,7 +79,15 @@ For MacOS:
 ###
 ```powershell
 pip3 -m venv env (name...)
+```
+
+###
+```powershell
 pip3 -m venv env (name...) activate
+```
+
+###
+```powershell
 pip install (package name...) #If you want to install specific packages
 ```
 
